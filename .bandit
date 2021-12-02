@@ -1,0 +1,4 @@
+[bandit]
+targets = apis/,common/,tests/
+recursive = true
+skips: B101
