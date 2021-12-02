@@ -1,4 +1,4 @@
 [bandit]
-targets = apis/,common/,tests/
+targets = chunk_generators/
 recursive = true
 skips: B101
